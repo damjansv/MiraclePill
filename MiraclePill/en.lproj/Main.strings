@@ -1,0 +1,30 @@
+
+/* Class = "UITextField"; placeholder = "Enter your address..."; ObjectID = "9xe-at-jtu"; */
+"9xe-at-jtu.placeholder" = "Enter your address...";
+
+/* Class = "UILabel"; text = "CITY"; ObjectID = "CcG-X4-ScS"; */
+"CcG-X4-ScS.text" = "CITY";
+
+/* Class = "UILabel"; text = "MIRACLE PILLS"; ObjectID = "PWQ-3G-Cn3"; */
+"PWQ-3G-Cn3.text" = "MIRACLE PILLS";
+
+/* Class = "UILabel"; text = "CITY"; ObjectID = "SWu-Ly-3UM"; */
+"SWu-Ly-3UM.text" = "CITY";
+
+/* Class = "UILabel"; text = "FULL NAME"; ObjectID = "kgz-Ao-sUZ"; */
+"kgz-Ao-sUZ.text" = "FULL NAME";
+
+/* Class = "UIButton"; normalTitle = "Choose Your State"; ObjectID = "qbg-Ac-1jw"; */
+"qbg-Ac-1jw.normalTitle" = "Choose Your State";
+
+/* Class = "UILabel"; text = "STREET ADDRESS"; ObjectID = "vBC-KZ-SK7"; */
+"vBC-KZ-SK7.text" = "STREET ADDRESS";
+
+/* Class = "UILabel"; text = "€150"; ObjectID = "wj9-sq-62w"; */
+"wj9-sq-62w.text" = "€150";
+
+/* Class = "UITextField"; placeholder = "Enter your name..."; ObjectID = "woa-bc-aeg"; */
+"woa-bc-aeg.placeholder" = "Enter your name...";
+
+/* Class = "UITextField"; placeholder = "Enter your city..."; ObjectID = "zRU-ta-yrZ"; */
+"zRU-ta-yrZ.placeholder" = "Enter your city...";

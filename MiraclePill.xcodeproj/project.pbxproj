@@ -9,11 +9,11 @@
 /* Begin PBXBuildFile section */
 		600AC0EC1F311E0C00A62144 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600AC0EB1F311E0C00A62144 /* AppDelegate.swift */; };
 		600AC0EE1F311E0C00A62144 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600AC0ED1F311E0C00A62144 /* ViewController.swift */; };
-		600AC0F11F311E0C00A62144 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 600AC0EF1F311E0C00A62144 /* Main.storyboard */; };
 		600AC0F31F311E0C00A62144 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 600AC0F21F311E0C00A62144 /* Assets.xcassets */; };
 		600AC0F61F311E0C00A62144 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 600AC0F41F311E0C00A62144 /* LaunchScreen.storyboard */; };
 		600AC1011F311E0D00A62144 /* MiraclePillTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600AC1001F311E0D00A62144 /* MiraclePillTests.swift */; };
 		600AC10C1F311E0D00A62144 /* MiraclePillUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600AC10B1F311E0D00A62144 /* MiraclePillUITests.swift */; };
+		60CAD4A11F36315A0069CFB8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 600AC0EF1F311E0C00A62144 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -229,9 +229,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				60CAD4A11F36315A0069CFB8 /* Main.storyboard in Resources */,
 				600AC0F61F311E0C00A62144 /* LaunchScreen.storyboard in Resources */,
 				600AC0F31F311E0C00A62144 /* Assets.xcassets in Resources */,
-				600AC0F11F311E0C00A62144 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -524,6 +524,7 @@
 				600AC1121F311E0D00A62144 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		600AC1131F311E0D00A62144 /* Build configuration list for PBXNativeTarget "MiraclePillTests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +533,7 @@
 				600AC1151F311E0D00A62144 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		600AC1161F311E0D00A62144 /* Build configuration list for PBXNativeTarget "MiraclePillUITests" */ = {
 			isa = XCConfigurationList;
@@ -540,6 +542,7 @@
 				600AC1181F311E0D00A62144 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
